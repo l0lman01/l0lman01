@@ -1,10 +1,9 @@
-## Hello, I"m Leo 👋
+## Hello, I"m Leo, nice to meet you 👋
 
 
-- 🔭 I’m currently searching a job as QA Tester/Analyst or Gameplay Developer
-- 🌱 I’m currently working on a side project that will finish one day
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently searching a job as QA Tester/Analyst or Gameplay Developer<br/>
+- 🌱 I’m currently working on a side project that will finish one day<br/>
+- 🤔 I’m looking for help with Game Design & Level Design
 - 💬 Ask me about Faker, current game METAs, my side projetct (pleasr don't ask that)
 
 ## 🌐 Socials:
